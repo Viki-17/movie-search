@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */
+}
+body {
+  font-family: "Inter", sans-serif;
+  /* background-color: #ebedf3; */
+  background-color: #001b32;
+  margin: 10px;
+  /* overflow: hidden; */
+}
